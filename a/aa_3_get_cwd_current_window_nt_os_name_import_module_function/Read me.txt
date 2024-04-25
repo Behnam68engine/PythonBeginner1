@@ -1,0 +1,4 @@
+"""
+This script demonstrates the usage of functions and prints 
+some messages using the tkinter library and os module.
+"""
